@@ -1,0 +1,150 @@
+
+// Dota 2
+
+.head-font{
+    /* font-family: 'Spectral SC', serif; */
+    font-family: 'Nuosu SIL', serif;
+}
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.steam-btn:hover {
+    color: white;
+    border-color: rgb(16, 7, 7);
+    transform: translateY(-8px);
+    transition: 1s;
+}
+.section-1 {
+    background: linear-gradient(to right,rgb(81, 81, 112),rgb(1, 1, 26));
+}
+.section-2 {
+    background-color: rgb(37, 46, 73);
+}
+.section-3 {
+    background: linear-gradient(to bottom,rgb(105, 145, 190),rgb(1, 51, 117));
+}
+.section-4 {
+    background: linear-gradient(to right,rgb(107, 107, 147),rgb(2, 2, 54));
+}
+.img-dota {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 8px 8px 8px 0;
+}
+.img-dota-2 {
+    width: 100%;
+    height: 520px;
+    object-fit: cover;
+    border-radius: 15px;
+    box-shadow: 8px 8px black;
+}
+.inter-img{
+    width: 1300px;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.singapore-img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.animajor-img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.img-logo:hover{
+   transform: translateY(-10px);
+   background-color: rgb(4, 68, 151);
+   transition: 1s;
+   color: #f7f8fc;
+   box-shadow: 4px 4px 5px black;
+}
+.img-hero:hover{
+    transform: translateY(-10px);
+   background-color: rgb(2, 2, 54);
+   transition: 1s;
+   color: #f7f8fc;
+   box-shadow: 4px 4px 5px black;
+}
+.og-logo{
+    width: 280px;
+    height: 320px;
+    padding-top: 22px;
+    padding-left: 7px;
+}
+.boom-img{
+    width: 280px;
+    height: 300px;
+    padding-top: 22px;
+    padding-left: 3px;
+}
+.team-spirit {
+    width: 100%;
+    height: 307px;
+    object-fit: cover;
+}
+.royal-logo{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    padding: 100px 40px;
+}
+.qc { 
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    margin-top: 56px;
+    margin-bottom: 30px;
+}
+.fnatic-img{
+    width: 100%;
+    height: 307px;
+    object-fit: cover;
+}
+.EG-img{
+    width: 100%;
+    height: 307px;
+    object-fit: cover;
+}
+.TS-img{
+    width: 100%;
+    height: 307px;
+    object-fit: cover;
+}
+.Invict-img{
+    width: 100%;
+    height: 307px;
+    object-fit: cover;
+}
+.axe-img{
+    width: 100%;
+    height: 79px;
+    object-fit: cover;
+
+}
+.bristle-img{
+    width: 100%;
+    height: 79px;
+    object-fit: cover;
+
+}
+.chaos-img{
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+
+}
+
+
+
+
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'
